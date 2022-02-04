@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nama": "amelia",
+      "alamat": "Tegal",
+      "umur": 18,
+      "email": "amelia21@gmail.com"
+    },
+    {
+      "id": 2,
+      "nama": "amelia",
+      "alamat": "Tegal",
+      "umur": 18,
+      "email": "amelia21@gmail.com"
+    },
+    {
+      "id": 3,
+      "nama": "amelia",
+      "alamat": "Tegal",
+      "umur": 18,
+      "email": "amelia21@gmail.com"
+    },
+    {
+      "id": 4,
+      "nama": "amelia",
+      "alamat": "Tegal",
+      "umur": 18,
+      "email": "amelia21@gmail.com"
+    },
+    {
+      "id": 5,
+      "nama": "amelia",
+      "alamat": "Tegal",
+      "umur": 18,
+      "email": "amelia21@gmail.com"
+    },
+    {
+      "id": 6,
+      "nama": "amelia",
+      "alamat": "Tegal",
+      "umur": 18,
+      "email": "amelia21@gmail.com"
+    },
+    {
+      "id": 7,
+      "nama": "amelia",
+      "alamat": "Tegal",
+      "umur": 18,
+      "email": "amelia21@gmail.com"
+    },
+    {
+      "id": 8,
+      "nama": "amelia",
+      "alamat": "Tegal",
+      "umur": 18,
+      "email": "amelia21@gmail.com"
+    },
+    {
+      "id": 9,
+      "nama": "amelia",
+      "alamat": "Tegal",
+      "umur": 18,
+      "email": "amelia21@gmail.com"
+    },
+    {
+      "id": 10,
+      "nama": "amelia",
+      "alamat": "Tegal",
+      "umur": 18,
+      "email": "amelia21@gmail.com"
+    }
+  ]
+}
